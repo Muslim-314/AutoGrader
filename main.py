@@ -7,7 +7,7 @@ from openpyxl import Workbook
 from dotenv import load_dotenv
 from openai import OpenAI
 
-API_KEY = "xai-tbX7zzmXbkoboPNcxPqu43lYkS2cnyJQHVPzhoF49bkgmjAW9vpmdWRewXtibElwoNS2mwQgzwIht8H4"
+API_KEY = "<Your API KEY>"
 
 # Load environment variables
 load_dotenv()
