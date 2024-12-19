@@ -70,16 +70,5 @@ AI Quiz Grader is a Python-based application that uses AI to grade handwritten q
 └── .env                   # Environment variables file (not included by default)
 ```
 
-## Screenshots
 
-Add screenshots of your GUI here to demonstrate the application interface.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-- [OpenAI](https://openai.com/) for providing the AI API.
-- [Tkinter](https://docs.python.org/3/library/tkinter.html) for the GUI framework.
