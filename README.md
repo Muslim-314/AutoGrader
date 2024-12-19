@@ -72,4 +72,6 @@ AI Quiz Grader is a Python-based application that uses AI to grade handwritten q
 ```
 
 
+## GUI
+![GUI](./GUI.png)
 
