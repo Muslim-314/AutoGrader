@@ -35,6 +35,7 @@ AI Quiz Grader is a Python-based application that uses AI to grade handwritten q
    source venv/bin/activate   # For macOS/Linux
    venv\Scripts\activate     # For Windows
    ```
+   
 
 3. **Install Dependencies:**
    ```bash
@@ -45,7 +46,7 @@ AI Quiz Grader is a Python-based application that uses AI to grade handwritten q
    - Create a `.env` file in the root directory.
    - Add your OpenAI API key to the `.env` file:
      ```env
-     OPENAI_API_KEY=your_api_key_here
+     API_KEY=your_api_key_here
      ```
 
 ## Usage
